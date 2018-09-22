@@ -1,0 +1,13 @@
+{
+  "name": "simple-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Divyanshu Singh <dsinecos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
